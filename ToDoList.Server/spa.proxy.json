@@ -1,0 +1,8 @@
+{
+  "SpaProxyServer": {
+    "ServerUrl": "http://localhost:54420",
+    "LaunchCommand": "npm run dev",
+    "WorkingDirectory": "../todolist.client",
+    "MaxTimeoutInSeconds": "120"
+  }
+}
